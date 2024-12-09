@@ -1,1 +1,1 @@
-# Haskell Blog Generator
+# Blog Generator
